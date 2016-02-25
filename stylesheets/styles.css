@@ -6,12 +6,20 @@ head{
   padding: 20px;
   color: white;
 
+title.note{
+    align = "left";
+}
 
 body{
   background-color: white;
   color: black;
   padding: 20px; 
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+  
+  .wrapper {
+  width: 800px;
+  margin: 0 auto;
+  background: #DEDEDE;}
   
   
    
