@@ -7,9 +7,6 @@ head{
   color: silver;
 }
 
-h1{
-    align = "left";
-}
 
 body{
   background-color: white;
@@ -17,11 +14,19 @@ body{
   padding: 20px; 
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;}
   
-  .wrapper {
+ 
+.wrapper {
   width: 800px;
   margin: 0 auto;
-  background: #458B00;}
+  background: white;}
+.header{
+  background: #458B00;
+  width: 800px;
+  border: 10px;
+    color: white;
+  margin: 0 auto;
   
+}
   
    
    
