@@ -32,11 +32,11 @@ header{
   margin: 10px;
   }
   
-   button { 
+button { 
      background-color red;
    }
    
-   p2{
+   p.main{
      background-color: #fff;
      border-width:5px;
      border-color:red;
@@ -47,24 +47,4 @@ header{
      margin: 10px;
    }
    
-      p3{
-     background-color: #fff;
-     border-width:5px;
-     border-color:red;
-     border-style:dotted;
-     -moz-box-shadow: 0 0 10px #777;
-     -webkit-box-shadow: inset 0 0 10px  #777;
-     box-shadow: inset 0 0 10px #777;
-     margin: 10px;
-   }
-   
-      p4{
-     background-color: #fff;
-     border-width:5px;
-     border-color:red;
-     border-style:dotted;
-     -moz-box-shadow: 0 0 10px #777;
-     -webkit-box-shadow: inset 0 0 10px  #777;
-     box-shadow: inset 0 0 10px #777;
-     margin: 10px;
-   }
+    
