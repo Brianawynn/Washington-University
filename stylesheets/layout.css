@@ -4,7 +4,8 @@ head{
   background-color:#458B00;
   font: 40px/1.5 Lato, "Helvtica Neue", Helvetica, Arial, sans-serif;
   padding: 20px;
-  color: silver;
+  color: black;
+  margin:auto;
 }
 
 
@@ -20,6 +21,7 @@ body{
   height: 800px;
   background: white;
   padding: 20px;
+  margin:auto;
   border-width: 20px;
   border-color: red;
 }
@@ -27,13 +29,18 @@ body{
 header{
   background: #458B00;
   width: 800px;
-  border: 
   padding: 20px;
-  margin: 10px;
+  margin: auto;
   }
   
 button { 
      background-color red;
+   }
+   
+   p.main{
+     border-width:5px;
+     border-color:red
+       padding:5px;
    }
    
 section{
@@ -45,11 +52,6 @@ section{
      margin: 10px;
      padding:10px;
    }
-   p.main{
-     border-width:5px;
-     border-color:red
-  
-     padding:5px;
-   }
+   
    
     
