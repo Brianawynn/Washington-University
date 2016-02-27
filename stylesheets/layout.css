@@ -37,7 +37,7 @@ button {
      background-color red;
    }
    
-section{
+section  > p{
      background-color: #fff;
      border-width:5px;
      border-color:red;
