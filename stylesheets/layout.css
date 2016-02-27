@@ -19,11 +19,11 @@ body{
   width: 800px;
   margin: 0 auto;
   background: white;}
+
 .header{
   background: #458B00;
   width: 800px;
-  border: 10px;
-    color: white;
+  border: 10px color white;
   margin: 0 auto;
   
 }
