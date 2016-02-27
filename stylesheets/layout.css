@@ -2,7 +2,7 @@
 
 head{
   background-color:#458B00;
-  font: 20px/1.5 Lato, "Helvtica Neue", Helvetica, Arial, sans-serif;
+  font: 40px/1.5 Lato, "Helvtica Neue", Helvetica, Arial, sans-serif;
   padding: 20px;
   color: silver;
 }
@@ -21,7 +21,7 @@ body{
   margin: 0 auto;
   background: white;
   padding: 20px;
-  border-width: 10px;
+  border-width: 20px;
   border-color: red;
 }
 
@@ -37,14 +37,19 @@ button {
      background-color red;
    }
    
-section>p{
+section{
      background-color: #fff;
-     border-width:5px;
-     border-color:red;
+     border-width:10px;
      -moz-box-shadow: 0 0 10px #777;
      -webkit-box-shadow: inset 0 0 10px  #777;
      box-shadow: inset 0 0 10px #777;
      margin: 10px;
+   }
+   p.main{
+     border-width:5px;
+     border-color:red
+     margin:10px;
+     padding:5px;
    }
    
     
