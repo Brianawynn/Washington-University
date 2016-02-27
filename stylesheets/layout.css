@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 head{
+  width:600px;
   background-color:#458B00;
   font: 40px/1.5 Lato, "Helvtica Neue", Helvetica, Arial, sans-serif;
   padding: 20px;
