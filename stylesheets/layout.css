@@ -9,7 +9,7 @@ head{
 
 
 body{
-  background-color: eee;
+  background-color: #f5f5dc;
   color: black;
   padding: 20px; 
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -35,7 +35,7 @@ header{
      background-color red;
    }
    
-   p{
+   p2{
      background-color: #fff;
      border-width:5px;
      border-color:red;
@@ -46,3 +46,24 @@ header{
      margin: 10px;
    }
    
+      p3{
+     background-color: #fff;
+     border-width:5px;
+     border-color:red;
+     border-style:dotted;
+     -moz-box-shadow: 0 0 10px #777;
+     -webkit-box-shadow: inset 0 0 10px  #777;
+     box-shadow: inset 0 0 10px #777;
+     margin: 10px;
+   }
+   
+      p4{
+     background-color: #fff;
+     border-width:5px;
+     border-color:red;
+     border-style:dotted;
+     -moz-box-shadow: 0 0 10px #777;
+     -webkit-box-shadow: inset 0 0 10px  #777;
+     box-shadow: inset 0 0 10px #777;
+     margin: 10px;
+   }
