@@ -31,13 +31,13 @@ header{
   }
   
    button { 
-     background 
+     background-color red;
    }
    
    p{
-     width: 600px;
-     height: 400px;
      background-color: #eee;
-     border: 20px red;
+     border-width:20px;
+     border-color:red;
+     border-style:dotted;
    }
    
