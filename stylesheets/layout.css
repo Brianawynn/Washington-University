@@ -79,6 +79,12 @@ hr{
   color: #ff0000;
 }
 
+.quote{
+  background-color: #e0e093;
+  border-radius:15px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
    
    
     
