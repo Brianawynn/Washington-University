@@ -43,12 +43,13 @@ header{
   margin: auto;
   }
   
-button { 
-     background-color red;
-   }
-   
- 
-   
+h3{
+  background-color: red;
+  border-width:5px;
+  border-radius: 15px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
 
    
    
