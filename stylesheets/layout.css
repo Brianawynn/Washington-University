@@ -45,9 +45,7 @@ header{
   
 h3{
   background-color:  #e0e093;
-  border-color: #FF0000;
-  border-width:5px;
-  width: 100px;
+   width: 100px;
   border-radius: 15px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -65,6 +63,11 @@ h3{
   
 }
 
+.main{
+   border-color: #FF0000;
+  border-width:10px;
+  margin: auto;
+}
 
    
    
