@@ -11,7 +11,7 @@ head{
 
 
 body{
-  background-color:  #e0e093;
+  background-color: #458B00;
   color: black;
   padding: 20px; 
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -94,5 +94,24 @@ img{
   padding: 10px;
   margin: 10px;
 }
-   
+
+table{
+  width: 800px;
+  margin: auto;
+  
+}
+  
+th, td{
+  padding: 7px, 10px, 10px, 10px;
+}
+
+th{
+  border-bottom: 2px solid #ff0000
+  border-top: 2px dotted #e0e093;
+  
+}
+
+tr.even{
+  background-color: #e0e093;
+}
     
