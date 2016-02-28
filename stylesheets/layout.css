@@ -52,7 +52,7 @@ h3{
   text-align: center;
 }
 
-#long{
+.long{
   background-color:  #e0e093;
   border-color: #FF0000;
   border-width:5px;
@@ -62,7 +62,7 @@ h3{
   -webkit-border-radius: 10px;
   text-align: center;
 }
-#extralong{
+.extralong{
     background-color:  #e0e093;
   border-color: #FF0000;
   border-width:5px;
