@@ -60,13 +60,11 @@ h3{
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   text-align: center;
-  
 }
 
-.main{
-   border-color: #FF0000;
-  border-width:10px;
-  margin: auto;
+p.main{
+  border-bottom-color: #FF0000;
+  
 }
 
    
