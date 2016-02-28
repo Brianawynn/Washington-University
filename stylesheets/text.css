@@ -3,7 +3,7 @@ body{
   padding:20px;
 }
 
-#Header{
+.Header{
   font-weight: bold;
   font-size: 60px;
   color:  red;
