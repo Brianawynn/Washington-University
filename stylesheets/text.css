@@ -45,6 +45,7 @@ a{
 .list{
   font-size:16px;
   line-height: 1.5em;
+  list-style-type: none;
 }
 
 .title{
@@ -62,6 +63,26 @@ a{
   font-size: 20px;
   
 }
+
+table{
+  width: 700px;
+  margin: auto;
+  background-color: #e0e093;
+}
+
+th, td{
+  padding: 7px, 10px, 10px, 10px;
+}
+
+th{
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: 20px;
+  border-bottom: 2px solid #ff0000;
+  border-top: 1 px solid #eee;
+  text-align: left;
+}
+
 
 
 
