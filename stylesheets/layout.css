@@ -98,6 +98,8 @@ img{
 table{
   width: 800px;
   margin: auto;
+  border-style: dotted;
+  border-color: #ff0000;
   
 }
   
