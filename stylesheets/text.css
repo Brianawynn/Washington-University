@@ -40,19 +40,22 @@ p. Intro:first-line{
 }
 a{
   text-decoration: none;
+  color: #ff0000;
 }
 a: hover{
   text-decoration: underline;
+  color: #000;
 }
 
 .list{
   font-size:16px;
-  text-align: right;
   line-height: 1.5em;
 }
 
 .title{
   text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
   color:#ff0000;
   font-weight: bold;
   letter-spacing: 1.2em;
