@@ -70,10 +70,15 @@ th{
   font-size: 20px;
   text-align: center;
 }
+
  footer{
    text-transform: capitalize;
    font-size: 10px;
    text-align: left;
+ }
+ 
+ footer>ul{
+   font-size: 10px;
  }
 
 
