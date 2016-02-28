@@ -44,7 +44,8 @@ header{
   }
   
 h3{
-  background-color: red;
+  background-color:  #e0e093;
+  border-color:red;
   border-width:5px;
   width: 100px;
   border-radius: 15px;
@@ -52,6 +53,7 @@ h3{
   -webkit-border-radius: 10px;
   text-align: center;
 }
+
 
    
    
