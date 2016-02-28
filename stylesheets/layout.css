@@ -45,13 +45,24 @@ header{
   
 h3{
   background-color:  #e0e093;
-  border-color:red;
+  border-color: #FF0000;
   border-width:5px;
   width: 100px;
   border-radius: 15px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   text-align: center;
+}
+
+#long{background-color:  #e0e093;
+  border-color: #FF0000;
+  border-width:5px;
+  width: 200px;
+  border-radius: 15px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  text-align: center;
+  
 }
 
 
