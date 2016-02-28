@@ -42,7 +42,7 @@ a{
   text-decoration: none;
 }
 
-.list{
+ul{
   font-size:16px;
   line-height: 1.5em;
   list-style-type: none;
