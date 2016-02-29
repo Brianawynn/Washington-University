@@ -72,6 +72,11 @@ th{
   text-align: center;
 }
 
+.social{
+  vertical-align: text-top;
+  border-width: 2px;
+}
+
  footer{
    text-transform: capitalize;
    font-size: 10px;
