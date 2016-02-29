@@ -102,6 +102,10 @@ img{
   top:0px;
   right: 0px;
 }
+.social>a{
+  text-decoration:underline;
+  color:#ff0000;
+}
 
 table{
   width: 800px;
